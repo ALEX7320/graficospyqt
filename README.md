@@ -185,7 +185,7 @@ No solo existen unicamenten estos dos gráficos; sin embargo son los más usados
 
 - [AndresNiño (Bar Chart)](https://github.com/andresnino/PyQt5/tree/master/Grafico%20de%20barras%20-%20Bar%20Chart "AndresNiño (Bar Chart)")
 - [AndresNiño (Pie Chart)](https://github.com/andresnino/PyQt5/tree/master/Grafico%20circular%20-%20Pie%20Chart "AndresNiño (Pie Chart)")
-- [ProgrammerSought](https://www..com/article/26606027024/ "ProgrammerSought")
+- [ProgrammerSought](https://www.programmersought.com/article/26606027024/ "ProgrammerSought")
 - [StackOverflow](https://stackoverflow.com/questions/59884038/how-do-i-get-the-axis-labels-in-qtchart-qlineseries "StackOverflow")
 - [SemiColonWorld](https://www.semicolonworld.com/question/58072/clear-all-widgets-in-a-layout-in-pyqt "SemiColonWorld")
 - [Qter](https://www.qter.org/portal.php?mod=view&aid=6802 "Qter")
