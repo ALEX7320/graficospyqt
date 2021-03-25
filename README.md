@@ -18,7 +18,7 @@
   * [Optimización](#optimización)
   * [Otros gráficos](#otros-gráficos)
   * [Fuentes](#fuentes)
-  * [Previzualización](#previzualización)
+  * [Previsualización](#previsualización)
 
 # Recursos utilizados
 
@@ -191,7 +191,7 @@ No solo existen unicamenten estos dos gráficos; sin embargo son los más usados
 - [Qter](https://www.qter.org/portal.php?mod=view&aid=6802 "Qter")
 
 
-# Previzualización
+# Previsualización
 
 **Gráfico de Barras**
 
